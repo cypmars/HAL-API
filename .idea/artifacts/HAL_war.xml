@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HAL:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringMVC4.war">
+      <element id="artifact" artifact-name="HAL:war exploded" />
+    </root>
+  </artifact>
+</component>
